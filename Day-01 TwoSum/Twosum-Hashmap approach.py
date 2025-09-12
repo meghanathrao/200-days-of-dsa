@@ -27,7 +27,7 @@ def run_test_cases():
     print("-" * 20)
 
     # Test Case 2: Solution at the end of the list
-    nums2 = [3, 2, 4]
+    nums2 = [1,3, 2, 4]
     target2 = 6
     result2 = solution.twoSum(nums2, target2)
     print(f"Test Case 2:")
