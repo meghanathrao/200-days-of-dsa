@@ -10,6 +10,6 @@ class Solution:
 
 if __name__ == "__main__":
     solver = Solution()
-    houses = [2, 7, 9, 3, 1]  
+    houses = [2, 7, 9, 3, 1,1]  
     max_loot = solver.rob(houses)
     print("Maximum loot possible:", max_loot)
