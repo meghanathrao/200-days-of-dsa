@@ -19,7 +19,7 @@ public class TestTwoSum {
         Solution solution = new Solution();
 
         // --- Test Case 1 ---
-        int[] nums1 = {2, 7, 11, 15,0};
+        int[] nums1 = {2, 7, 11, 15, 0};
         int target1 = 9;
         runTestCase(1, nums1, target1, new int[] {0, 1}, solution);
 
